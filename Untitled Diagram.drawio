@@ -1,9 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2024-03-03T15:26:50.501Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.1" etag="hGPteVOt4uzAIPm0J07Z" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-03T15:40:40.235Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="AM5v4Dw-3bEtiCyh2P_2" version="24.0.1" type="github">
   <diagram name="Page-1" id="GBpQJX3VlAgqphPgUjDk">
-    <mxGraphModel>
+    <mxGraphModel dx="962" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-1" value="&lt;font color=&quot;#99ccff&quot; style=&quot;font-size: 38px;&quot; face=&quot;Tahoma&quot;&gt;Hardcoded Variable&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=#0066CC;fillColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="110" y="200" width="560" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-2" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.code_file" vertex="1" parent="1">
+          <mxGeometry x="376" y="116" width="49" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.github_code;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="134" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/online-shop-7/128/calendar-event-planning-128.png" vertex="1" parent="1">
+          <mxGeometry x="150" y="138" width="58" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-5" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#A153A0;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0,0.5,0],[0.125,0.25,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[0.875,0.25,0],[1,0.5,0],[0.875,0.75,0],[0.75,1,0],[0.5,1,0],[0.125,0.75,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.design.blank_device;resIcon=mxgraph.cisco_safe.design.monitoring;" vertex="1" parent="1">
+          <mxGeometry x="154" y="418.6" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-6" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apache" vertex="1" parent="1">
+          <mxGeometry x="380" y="430" width="30" height="45.2" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-7" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=deploy" vertex="1" parent="1">
+          <mxGeometry x="580" y="414.9" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-8" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.device_health" vertex="1" parent="1">
+          <mxGeometry x="55" y="258.5" width="50" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-9" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#01A88D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_shadow_testing;" vertex="1" parent="1">
+          <mxGeometry x="696" y="258.5" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-10" value="Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="375" y="166" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-11" value="Commit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="186" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-12" value="Test" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="296.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-13" value="Plan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="154" y="186" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-14" value="Deploy" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="460.09999999999997" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-16" value="OSS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="470" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-17" value="Monitor" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="289.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RF4C-TeAuxBSGZfzYPdB-18" value="Analyze" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="144" y="456.6" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
