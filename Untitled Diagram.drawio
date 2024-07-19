@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T11:50:54.749Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="VYHG8r7pOVtoadLWCfHg" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T13:24:45.655Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Sgg0NExusZ8zNd4ZBsT2" version="24.0.1" type="github">
   <diagram name="Page-1" id="kWTIwhcQHqzGvz7tP68b">
     <mxGraphModel dx="1852" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -106,6 +106,9 @@
         </mxCell>
         <mxCell id="ZA3PcrTbNdGwVGCwAe8C-41" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Fetch the asset from the download path received in Step 3 and save it to local FS&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
           <mxGeometry x="201.26" y="-50" width="198.74" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZA3PcrTbNdGwVGCwAe8C-42" value="Step 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="159.51" y="-170" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
