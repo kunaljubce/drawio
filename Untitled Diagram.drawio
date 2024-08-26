@@ -104,8 +104,8 @@
             <mxPoint x="405.77" y="-80.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZA3PcrTbNdGwVGCwAe8C-41" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Fetch the asset from the download path received in Step 3 and save it to local FS&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
-          <mxGeometry x="350" y="-40" width="198.74" height="40" as="geometry" />
+        <mxCell id="ZA3PcrTbNdGwVGCwAe8C-41" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Fetch the asset in TIFF format from the download path received in Step 3 and save it to local FS&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
+          <mxGeometry x="350" y="-40" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZA3PcrTbNdGwVGCwAe8C-42" value="Step 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="50" y="-60" width="60" height="30" as="geometry" />
