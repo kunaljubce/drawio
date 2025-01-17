@@ -29,7 +29,7 @@
           <mxGeometry x="45" y="180" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="CI check failure" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#FFC9AA;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="765" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="842" y="419" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
           <mxGeometry y="10" relative="1" as="geometry">
@@ -39,16 +39,16 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;pre-commit to validate if meta.yml is in sync with model properties files&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1.5" y="339" width="187" height="171" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Sync meta.yml and model properties files" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="318" y="404.5" width="120" height="40" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Sync meta.yml and model properties files&lt;div&gt;with both&lt;/div&gt;&lt;div&gt;- Meta sync script&lt;/div&gt;&lt;div&gt;- Meta injection script&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="318" y="347" width="120" height="155" as="geometry" />
         </mxCell>
-        <mxCell id="vaHk5qMaN5SWsj166qQE-0" value="CI check to validate if meta.yml is in sync with model properties files" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="150" width="170" height="140" as="geometry" />
+        <mxCell id="vaHk5qMaN5SWsj166qQE-0" value="CI check to validate if&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; meta.yml is in sync with&amp;nbsp;&lt;/div&gt;&lt;div&gt;model properties files&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Meta sync script)&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="215" y="131" width="204" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="vaHk5qMaN5SWsj166qQE-3" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vaHk5qMaN5SWsj166qQE-3" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0.45;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry x="-0.149" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
-            <mxPoint x="382" y="221" as="sourcePoint" />
+            <mxPoint x="419" y="222" as="sourcePoint" />
             <mxPoint x="820" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -86,7 +86,7 @@
         <mxCell id="vaHk5qMaN5SWsj166qQE-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="95" y="538" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vaHk5qMaN5SWsj166qQE-14" value="CI check to validate if model properties files are in sync with meta.yml&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="vaHk5qMaN5SWsj166qQE-14" value="&amp;nbsp; CI check to validate if&amp;nbsp;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; model properties files are&amp;nbsp;&lt;/div&gt;&lt;div&gt;in sync with meta.yml&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Meta injection script)&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="245" y="556" width="210" height="158" as="geometry" />
         </mxCell>
         <mxCell id="vaHk5qMaN5SWsj166qQE-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="vaHk5qMaN5SWsj166qQE-10" target="vaHk5qMaN5SWsj166qQE-14">
@@ -105,15 +105,16 @@
             <mxPoint x="725" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vaHk5qMaN5SWsj166qQE-19" value="&lt;font&gt;Manually execute the sync both ways and commit again&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="370" width="167" height="40" as="geometry" />
+        <mxCell id="vaHk5qMaN5SWsj166qQE-19" value="&lt;font&gt;Manually execute the sync and injection scripts and commit again&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="370" width="168" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="vaHk5qMaN5SWsj166qQE-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7">
+        <mxCell id="vaHk5qMaN5SWsj166qQE-20" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.625;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="vaHk5qMaN5SWsj166qQE-19">
           <mxGeometry x="-0.25" y="15" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
             <mxPoint x="724" y="530" as="sourcePoint" />
-            <mxPoint x="724" y="411" as="targetPoint" />
+            <mxPoint x="724" y="427" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="842" y="450" />
               <mxPoint x="724" y="450" />
             </Array>
           </mxGeometry>
